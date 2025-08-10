@@ -3,7 +3,7 @@
 This project implements sign recognition from a custom dataset using two deep learning approaches:
 
 - **LSTM Model:** Utilizes sequential keypoint data for recognizing sign language gestures.
-- **CNN Model:** Uses image data to classify signs through convolutional neural networks.
+- **CNN Model:** Uses image data to classify signs through convolutional neural networks.<b>Refer P_1.ipynb colab notebook for cnn model</b>
 
 ## Dataset
 
